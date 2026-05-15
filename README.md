@@ -1,25 +1,30 @@
-📊 Amazon Product Data Analysis (Python EDA Project)
-📌 Project Overview
+# **📊 Amazon Product Data Analysis (Python EDA Project)**
+## 📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of Amazon product data using Python.
 The goal is to uncover insights about product popularity, pricing strategy, customer behavior, ratings, and discounts.
 
 This project demonstrates real-world data analysis workflow including data cleaning, visualization, and business insights generation.
+***
 
-🎯 Objectives
+## 🎯 Objectives
+
 Identify the most popular product categories
 Understand customer engagement using reviews
 Analyze product pricing and discount strategies
 Study rating distribution and customer satisfaction
 Explore relationship between discount and ratings
-🛠 Tools & Technologies Used
+***
+## 🛠 Tools & Technologies Used
+
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-📂 Dataset Description
+
+## 📂 Dataset Descriptio
 
 The dataset contains Amazon product information such as:
 
@@ -30,7 +35,8 @@ Discounted Price
 Discount Percentage
 Rating
 Rating Count
-🔍 Exploratory Data Analysis Performed
+***
+## 🔍 Exploratory Data Analysis Performed
 
 The following analysis was conducted:
 
@@ -40,8 +46,9 @@ The following analysis was conducted:
 ✔ Rating & Review Analysis
 ✔ Discount Strategy Analysis
 ✔ Relationship Analysis (Discount vs Rating)
+***
 
-📈 Key Insights
+## 📈 Key Insights
 🛍 Product Popularity
 
 A few categories dominate the dataset with the highest number of products, showing strong focus on high-demand product segments.
@@ -65,8 +72,9 @@ Some categories offer significantly higher discounts, showing strong competition
 📉 Discount vs Rating
 
 There is a weak relationship between discount and ratings, meaning customers value product quality more than discounts.
+***
 
-📊 Project Structure
+## 📊 Project Structure
 Amazon-Data-Analysis/
 │
 ├── Amazon_EDA.ipynb
@@ -75,7 +83,8 @@ Amazon-Data-Analysis/
 ├── dataset.csv
 └── images/
 
-💼 Author
+## 💼 Author
 
 Chahat Verma
-Aspiring Data Analyst
+ Data Analyst
+ 
