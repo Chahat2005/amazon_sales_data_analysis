@@ -1,0 +1,23 @@
+Amazon Product Data Analysis – Key Insights
+
+1. Product Availability & Popular Categories
+The analysis shows that product distribution is highly concentrated in a few categories. Certain categories dominate the dataset with significantly higher product listings, indicating Amazon’s strong focus on high-demand product segments.
+
+2. Customer Engagement & Demand
+Customer review analysis reveals that only a small number of categories receive the majority of reviews. This suggests that customer interest and demand are heavily focused on specific product segments.
+
+3. Product Type Distribution
+The dataset is unevenly distributed across product types, where a few product types make up the majority of listings while many others have limited representation. This indicates specialization in key product areas.
+
+4. Pricing Strategy & Customer Affordability
+Price distribution analysis shows that most products fall within the low to mid-price range. High-priced products represent only a small portion of the dataset, suggesting that Amazon primarily targets budget-conscious and mid-range customers.
+
+5. Customer Satisfaction
+The majority of products have ratings between 4.0 and 4.5, indicating generally positive customer feedback and overall satisfaction.
+
+6. Discount Strategy Across Categories
+Discount analysis reveals that some categories offer significantly higher average discounts than others. This suggests strong competition and price-sensitive markets within these segments.
+
+7. Impact of Discount on Ratings
+The relationship between discount percentage and product rating is weak. Higher discounts do not necessarily lead to better ratings, indicating that product quality and customer experience play a more important role than price reductions.
+
