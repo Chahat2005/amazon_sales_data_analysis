@@ -1,21 +1,13 @@
-<<<<<<< HEAD
+
 # **📊 Amazon Product Data Analysis (Python EDA Project)**
 =======
 # 📊 Amazon Product Data Analysis (Python EDA Project)
->>>>>>> c15250e (Project Completed)
+
 ## 📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) and interactive dashboard creation using Amazon product data.
 The goal is to analyze customer behavior, product performance, pricing strategy, and discounts using Python and Power BI.
 ***
-
-<<<<<<< HEAD
-This project demonstrates real-world data analysis workflow including data cleaning, visualization, and business insights generation.
-***
-
-## 🎯 Objectives
-
-=======
 ## 🎯 Objectives
 >>>>>>> c15250e (Project Completed)
 Identify the most popular product categories
@@ -23,14 +15,9 @@ Understand customer engagement using reviews
 Analyze product pricing and discount strategies
 Study rating distribution and customer satisfaction
 Explore relationship between discount and ratings
-<<<<<<< HEAD
-***
-## 🛠 Tools & Technologies Used
-
-=======
 Build an interactive Power BI dashboard for visualization
-***
 
+***
 ## 🛠 Tools & Technologies Used
 >>>>>>> c15250e (Project Completed)
 Python
@@ -39,15 +26,10 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-<<<<<<< HEAD
-
-## 📂 Dataset Descriptio
-=======
 Power BI
 ***
 
 ## 📂 Dataset Description
->>>>>>> c15250e (Project Completed)
 
 The dataset contains Amazon product information such as:
 
@@ -59,10 +41,7 @@ Discount Percentage
 Rating
 Rating Count
 ***
-<<<<<<< HEAD
-=======
 
->>>>>>> c15250e (Project Completed)
 ## 🔍 Exploratory Data Analysis Performed
 
 The following analysis was conducted:
@@ -115,8 +94,4 @@ Amazon-Data-Analysis/
 
 Chahat Verma
  Data Analyst
-<<<<<<< HEAD
- 
-=======
- ***
->>>>>>> c15250e (Project Completed)
+
