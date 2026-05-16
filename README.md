@@ -8,7 +8,7 @@ This project focuses on Exploratory Data Analysis (EDA) and interactive dashboar
 The goal is to analyze customer behavior, product performance, pricing strategy, and discounts using Python and Power BI.
 ***
 ## 🎯 Objectives
->>>>>>> c15250e (Project Completed)
+
 Identify the most popular product categories
 Understand customer engagement using reviews
 Analyze product pricing and discount strategies
@@ -18,7 +18,7 @@ Build an interactive Power BI dashboard for visualization
 
 ***
 ## 🛠 Tools & Technologies Used
->>>>>>> c15250e (Project Completed)
+
 Python
 Pandas
 NumPy
