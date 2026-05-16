@@ -1,6 +1,5 @@
 
-# **📊 Amazon Product Data Analysis (Python EDA Project)**
-=======
+
 # 📊 Amazon Product Data Analysis (Python EDA Project)
 
 ## 📌 Project Overview
